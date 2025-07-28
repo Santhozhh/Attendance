@@ -33,7 +33,7 @@ const AuthLogin = () => {
         setError('Invalid username or password');
       }
     } else {
-      if (username === 'SK(JS)' && password === 'JS') {
+      if (username === 'ADMIN' && password === 'ADMIN') {
         localStorage.setItem('isAuthenticated', 'true');
         navigate('/dashboard');
       } else {
