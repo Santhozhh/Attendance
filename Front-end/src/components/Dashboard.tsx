@@ -286,7 +286,7 @@ Have a Very Nice Day`;
           className="text-center mb-8"
         >
           <h1 className="text-4xl sm:text-5xl font-bold mb-4 text-white">
-            Attendance Management IV-C
+            Attendance Management II-C
           </h1>
           <p className="text-lg text-white/70">
             Your gateway to student attendance tracking
@@ -354,9 +354,7 @@ Have a Very Nice Day`;
                       <th className="px-2 sm:px-6 py-4 text-left text-xs font-medium text-white uppercase tracking-wider min-w-[100px]">
                         Roll No
                       </th>
-                      <th className="px-2 sm:px-6 py-4 text-left text-xs font-medium text-white uppercase tracking-wider min-w-[120px]">
-                        Reg No
-                      </th>
+                      
                       {["Present", "Absent", "Leave", "On Duty", "Late"].map((header) => (
                         <th key={header} className="px-2 sm:px-6 py-4 text-left text-xs font-medium text-white uppercase tracking-wider min-w-[120px]">
                           {header}
@@ -381,9 +379,7 @@ Have a Very Nice Day`;
                         <td className="px-2 sm:px-6 py-4 whitespace-nowrap text-sm text-white min-w-[100px]">
                           {student.RollNo}
                         </td>
-                        <td className="px-2 sm:px-6 py-4 whitespace-nowrap text-sm text-white min-w-[120px]">
-                          {student.RegNo}
-                        </td>
+                       
                         {["Present", "Absent", "Leave", "On Duty", "Late"].map((status) => (
                           <td key={status} className="px-2 sm:px-6 py-4 whitespace-nowrap min-w-[120px]">
                             <motion.button

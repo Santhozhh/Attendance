@@ -1,399 +1,297 @@
 [
-   
-    {
-        "SNo":1,
-        "RollNo":"22CSEC01",
-        "RegNo":913122104001,
-        "Name":"ABINAYA T"
-    },
-    {
-        "SNo":2,
-        "RollNo":"22CSEC02",
-        "RegNo":913122104002,
-        "Name":"ABINAYASRI R"
-    },
-    {
-        "SNo":3,
-        "RollNo":"22CSEC03",
-        "RegNo":913122104005,
-        "Name":"ABITHA SRI G"
-    },
-    {
-        "SNo":4,
-        "RollNo":"22CSEC04",
-        "RegNo":913122104009,
-        "Name":"AHALYA R"
-    },
-    {
-        "SNo":5,
-        "RollNo":"22CSEC05",
-        "RegNo":913122104012,
-        "Name":"AKILA RANI B"
-    },
-    {
-        "SNo":6,
-        "RollNo":"22CSEC06",
-        "RegNo":913122104026,
-        "Name":"DENIFFA VALENCY R"
-    },
-    {
-        "SNo":8,
-        "RollNo":"22CSEC08",
-        "RegNo":913122104035,
-        "Name":"ERNESTINE LERISHA J"
-    },
-    {
-        "SNo":9,
-        "RollNo":"22CSEC09",
-        "RegNo":913122104043,
-        "Name":"HARINI S"
-    },
-    {
-        "SNo":10,
-        "RollNo":"22CSEC10",
-        "RegNo":913122104054,
-        "Name":"HEBSIBA JERLINA P J"
-    },
-    {
-        "SNo":11,
-        "RollNo":"22CSEC11",
-        "RegNo":913122104056,
-        "Name":"JAYABHARATHI P"
-    },
-    {
-        "SNo":12,
-        "RollNo":"22CSEC12",
-        "RegNo":913122104058,
-        "Name":"JELINA J"
-    },
-    {
-        "SNo":13,
-        "RollNo":"22CSEC13",
-        "RegNo":913122104066,
-        "Name":"KARTHIGA M"
-    },
-    {
-        "SNo":14,
-        "RollNo":"22CSEC14",
-        "RegNo":913122104086,
-        "Name":"MEERA SHAFRIN J"
-    },
-    {
-        "SNo":15,
-        "RollNo":"22CSEC15",
-        "RegNo":913122104094,
-        "Name":"MUTHIESWARI S"
-    },
-    {
-        "SNo":16,
-        "RollNo":"22CSEC16",
-        "RegNo":913122104100,
-        "Name":"NANTHETHA SRI C S"
-    },
-    {
-        "SNo":17,
-        "RollNo":"22CSEC17",
-        "RegNo":913122104108,
-        "Name":"NIVETHA M"
-    },
-    {
-        "SNo":18,
-        "RollNo":"22CSEC18",
-        "RegNo":913122104115,
-        "Name":"PREETHI S"
-    },
-    {
-        "SNo":19,
-        "RollNo":"22CSEC19",
-        "RegNo":913122104126,
-        "Name":"ROOBALAKSHMI N B"
-    },
-    {
-        "SNo":20,
-        "RollNo":"22CSEC20",
-        "RegNo":913122104128,
-        "Name":"ROSHINI S J"
-    },
-    {
-        "SNo":21,
-        "RollNo":"22CSEC21",
-        "RegNo":913122104129,
-        "Name":"RUBI PREETHI P"
-    },
-    {
-        "SNo":22,
-        "RollNo":"22CSEC22",
-        "RegNo":913122104131,
-        "Name":"SABREEN MARYAM M"
-    },
-    {
-        "SNo":23,
-        "RollNo":"22CSEC23",
-        "RegNo":913122104135,
-        "Name":"SANJANA R"
-    },
-    {
-        "SNo":24,
-        "RollNo":"22CSEC24",
-        "RegNo":913122104141,
-        "Name":"SHAPNA I"
-    },
-    {
-        "SNo":25,
-        "RollNo":"22CSEC25",
-        "RegNo":913122104144,
-        "Name":"SHEKKINA PAULIN J"
-    },
-    {
-        "SNo":26,
-        "RollNo":"22CSEC26",
-        "RegNo":913122104145,
-        "Name":"SHIVANI V"
-    },
-    {
-        "SNo":27,
-        "RollNo":"22CSEC27",
-        "RegNo":913122104149,
-        "Name":"SHURUTHIKA C"
-    },
-    {
-        "SNo":28,
-        "RollNo":"22CSEC28",
-        "RegNo":913122104168,
-        "Name":"SWATHI N D"
-    },
-    {
-        "SNo":29,
-        "RollNo":"22CSEC29",
-        "RegNo":913122104170,
-        "Name":"SWETHA N P"
-    },
-    {
-        "SNo":30,
-        "RollNo":"22CSEC30",
-        "RegNo":913122104173,
-        "Name":"SWETHA S"
-    },
-    {
-        "SNo":31,
-        "RollNo":"22CSEC31",
-        "RegNo":913122104180,
-        "Name":"VEDHA VARSHINI T J B"
-    },
-    {
-        "SNo":32,
-        "RollNo":"22CSEC32",
-        "RegNo":913122104184,
-        "Name":"VISHAL OVIYA S"
-    },
-    {
-        "SNo":33,
-        "RollNo":"22CSEC33",
-        "RegNo":913122104016,
-        "Name":"AMRUDAN T S S"
-    },
-    {
-        "SNo":34,
-        "RollNo":"22CSEC34",
-        "RegNo":913122104018,
-        "Name":"ASWINKUMAR G"
-    },
-    {
-        "SNo":35,
-        "RollNo":"22CSEC35",
-        "RegNo":913122104019,
-        "Name":"BALA MURUGAN P"
-    },
-    {
-        "SNo":36,
-        "RollNo":"22CSEC36",
-        "RegNo":913122104021,
-        "Name":"BHUVAN V R"
-    },
-    {
-        "SNo":37,
-        "RollNo":"22CSEC37",
-        "RegNo":913122104023,
-        "Name":"CHANAKYA K K"
-    },
-    {
-        "SNo":38,
-        "RollNo":"22CSEC38",
-        "RegNo":913122104034,
-        "Name":"DINESH KUMAR S"
-    },
-    {
-        "SNo":39,
-        "RollNo":"22CSEC39",
-        "RegNo":913122104036,
-        "Name":"GOKULA KANNAN V"
-    },
-    {
-        "SNo":40,
-        "RollNo":"22CSEC40",
-        "RegNo":913122104037,
-        "Name":"GOKULA SIVA V S"
-    },
-    {
-        "SNo":41,
-        "RollNo":"22CSEC41",
-        "RegNo":913122104038,
-        "Name":"GOPI NATH V"
-    },
-    {
-        "SNo":42,
-        "RollNo":"22CSEC42",
-        "RegNo":913122104053,
-        "Name":"HARSIDH M S"
-    },
-    {
-        "SNo":43,
-        "RollNo":"22CSEC43",
-        "RegNo":913122104057,
-        "Name":"JEBA J"
-    },
-    {
-        "SNo":44,
-        "RollNo":"22CSEC44",
-        "RegNo":913122104062,
-        "Name":"KABHI SHALAN M"
-    },
-    {
-        "SNo":45,
-        "RollNo":"22CSEC45",
-        "RegNo":913122104065,
-        "Name":"KARMUGILAN N"
-    },
-    {
-        "SNo":46,
-        "RollNo":"22CSEC46",
-        "RegNo":913122104068,
-        "Name":"KARTHIKEYAN P"
-    },
-    {
-        "SNo":47,
-        "RollNo":"22CSEC47",
-        "RegNo":913122104088,
-        "Name":"MITHUN KUMAR S R"
-    },
-    {
-        "SNo":48,
-        "RollNo":"22CSEC48",
-        "RegNo":913122104096,
-        "Name":"NAGANIMESH S"
-    },
-    {
-        "SNo":49,
-        "RollNo":"22CSEC49",
-        "RegNo":913122104097,
-        "Name":"NAGASURYA T G"
-    },
-    {
-        "SNo":50,
-        "RollNo":"22CSEC50",
-        "RegNo":913122104109,
-        "Name":"PAUL STEVE MITHUN B"
-    },
-    {
-        "SNo":51,
-        "RollNo":"22CSEC51",
-        "RegNo":913122104114,
-        "Name":"PRASANNA KUMAR.V"
-    },
-    {
-        "SNo":52,
-        "RollNo":"22CSEC52",
-        "RegNo":913122104119,
-        "Name":"RAGUL A P S"
-    },
-    {
-        "SNo":53,
-        "RollNo":"22CSEC53",
-        "RegNo":913122104121,
-        "Name":"RAM PRASATH T K"
-    },
-    {
-        "SNo":54,
-        "RollNo":"22CSEC54",
-        "RegNo":913122104138,
-        "Name":"SARAVANA V"
-    },
-    {
-        "SNo":55,
-        "RollNo":"22CSEC55",
-        "RegNo":913122104139,
-        "Name":"SHABARRISH P"
-    },
-    {
-        "SNo":56,
-        "RollNo":"22CSEC56",
-        "RegNo":913122104140,
-        "Name":"SHANMUGA PRASATH C"
-    },
-    {
-        "SNo":57,
-        "RollNo":"22CSEC57",
-        "RegNo":913122104153,
-        "Name":"SOFEN T R"
-    },
-    {
-        "SNo":58,
-        "RollNo":"22CSEC58",
-        "RegNo":913122104155,
-        "Name":"SRE RAMAN A"
-    },
-    {
-        "SNo":59,
-        "RollNo":"22CSEC59",
-        "RegNo":913122104159,
-        "Name":"SRI BALAJI R"
-    },
-    {
-        "SNo":60,
-        "RollNo":"22CSEC60",
-        "RegNo":913122104164,
-        "Name":"SURIYA S"
-    },
-    {
-        "SNo":61,
-        "RollNo":"22CSEC61",
-        "RegNo":913122104165,
-        "Name":"SURYA B S"
-    },
-    {
-        "SNo":62,
-        "RollNo":"22CSEC62",
-        "RegNo":913122104183,
-        "Name":"VISHAAL S"
-    },
-    {
-        "SNo":63,
-        "RollNo":"23LCSEC01",
-        "RegNo":913122104303,
-        "Name":"MOHAMED SHIHAB S"
-    },
-    {
-        "SNo":64,
-        "RollNo":"23LCSEC02",
-        "RegNo":913122104304,
-        "Name":"MUTHU RAMAN K"
-    },
-    {
-        "SNo":65,
-        "RollNo":"23LCSEC03",
-        "RegNo":913122104308,
-        "Name":"SARUMATHI M"
-    },
-    {
-        "SNo":66,
-        "RollNo":"23LCSEC04",
-        "RegNo":913122104307,
-        "Name":"SANTHOSH KUMAR K S D"
-    },
-    {
-        "SNo":67,
-        "RollNo":"23LCSEC05",
-        "RegNo":913122104305,
-        "Name":"SABARINATH N"
-    }
+ {
+  "SNo": 1,
+  "RollNo": "24CYSE01",
+  "Name": "AAFRIN SABURA S"
+ },
+ {
+  "SNo": 2,
+  "RollNo": "24CYSE02",
+  "Name": "AARTHEESWARI M"
+ },
+ {
+  "SNo": 3,
+  "RollNo": "24CYSE03",
+  "Name": "AASHIGA SREE L T M"
+ },
+ {
+  "SNo": 4,
+  "RollNo": "24CYSE04",
+  "Name": "AISHARWARYA K"
+ },
+ {
+  "SNo": 5,
+  "RollNo": "24CYSE05",
+  "Name": "ANUSHYA M"
+ },
+ {
+  "SNo": 6,
+  "RollNo": "24CYSE06",
+  "Name": "BUVANESWARI M"
+ },
+ {
+  "SNo": 7,
+  "RollNo": "24CYSE08",
+  "Name": "DHARSHINI B R"
+ },
+ {
+  "SNo": 8,
+  "RollNo": "24CYSE09",
+  "Name": "DHARSHINI M"
+ },
+ {
+  "SNo": 9,
+  "RollNo": "24CYSE10",
+  "Name": "HARINI A(10-02-2006)"
+ },
+ {
+  "SNo": 10,
+  "RollNo": "24CYSE11",
+  "Name": "HARINI A(13-11-2006)"
+ },
+ {
+  "SNo": 11,
+  "RollNo": "24CYSE12",
+  "Name": "HARINI K"
+ },
+ {
+  "SNo": 12,
+  "RollNo": "24CYSE13",
+  "Name": "JEYA ANUSIYA P"
+ },
+ {
+  "SNo": 13,
+  "RollNo": "24CYSE14",
+  "Name": "JUDITH JOANNA E"
+ },
+ {
+  "SNo": 14,
+  "RollNo": "24CYSE15",
+  "Name": "KOSHIGA S"
+ },
+ {
+  "SNo": 15,
+  "RollNo": "24CYSE16",
+  "Name": "LAVANYA K K"
+ },
+ {
+  "SNo": 16,
+  "RollNo": "24CYSE17",
+  "Name": "MADHUMITHA Y"
+ },
+ {
+  "SNo": 17,
+  "RollNo": "24CYSE18",
+  "Name": "MEENAKSHI S"
+ },
+ {
+  "SNo": 18,
+  "RollNo": "24CYSE19",
+  "Name": "MONISHA S"
+ },
+ {
+  "SNo": 19,
+  "RollNo": "24CYSE20",
+  "Name": "PRITHIKA S"
+ },
+ {
+  "SNo": 20,
+  "RollNo": "24CYSE21",
+  "Name": "PRIYADHARSHINI K"
+ },
+ {
+  "SNo": 21,
+  "RollNo": "24CYSE22",
+  "Name": "RASIKA S"
+ },
+ {
+  "SNo": 22,
+  "RollNo": "24CYSE23",
+  "Name": "ROOBADHARSHINI J S"
+ },
+ {
+  "SNo": 23,
+  "RollNo": "24CYSE24",
+  "Name": "SABARNIKA N"
+ },
+ {
+  "SNo": 24,
+  "RollNo": "24CYSE25",
+  "Name": "SAHANA A"
+ },
+ {
+  "SNo": 25,
+  "RollNo": "24CYSE26",
+  "Name": "SANGEETHA E"
+ },
+ {
+  "SNo": 26,
+  "RollNo": "24CYSE27",
+  "Name": "SHEELA CHRISLIN M"
+ },
+ {
+  "SNo": 27,
+  "RollNo": "24CYSE28",
+  "Name": "SHEERABDHI SHREE K V"
+ },
+ {
+  "SNo": 28,
+  "RollNo": "24CYSE29",
+  "Name": "SRIMATHI R"
+ },
+ {
+  "SNo": 29,
+  "RollNo": "24CYSE30",
+  "Name": "SUNMETHA VARSHINI S"
+ },
+ {
+  "SNo": 30,
+  "RollNo": "24CYSE31",
+  "Name": "VEDHALAKSHMI A"
+ },
+ {
+  "SNo": 31,
+  "RollNo": "24CYSE32",
+  "Name": "VISVA VIKASHINI R K"
+ },
+ {
+  "SNo": 32,
+  "RollNo": "24CYSE33",
+  "Name": "YUVA PRIYADHARSHINI K"
+ },
+ {
+  "SNo": 33,
+  "RollNo": "24CYSE34",
+  "Name": "AAKASH J"
+ },
+ {
+  "SNo": 34,
+  "RollNo": "24CYSE35",
+  "Name": "ABIKASH P"
+ },
+ {
+  "SNo": 35,
+  "RollNo": "24CYSE36",
+  "Name": "ANANDA JESAN S"
+ },
+ {
+  "SNo": 36,
+  "RollNo": "24CYSE37",
+  "Name": "ARAVIND S"
+ },
+ {
+  "SNo": 37,
+  "RollNo": "24CYSE38",
+  "Name": "ARUN KUMAR B"
+ },
+ {
+  "SNo": 38,
+  "RollNo": "24CYSE39",
+  "Name": "CHANDRU S"
+ },
+ {
+  "SNo": 39,
+  "RollNo": "24CYSE40",
+  "Name": "DARANIDARAN S"
+ },
+ {
+  "SNo": 40,
+  "RollNo": "24CYSE41",
+  "Name": "DEVADURAI S"
+ },
+ {
+  "SNo": 41,
+  "RollNo": "24CYSE42",
+  "Name": "HARISH S"
+ },
+ {
+  "SNo": 42,
+  "RollNo": "24CYSE43",
+  "Name": "HARRIVASAN S"
+ },
+ {
+  "SNo": 43,
+  "RollNo": "24CYSE44",
+  "Name": "JEYAPRAKASH A"
+ },
+ {
+  "SNo": 44,
+  "RollNo": "24CYSE45",
+  "Name": "KRISHNA M"
+ },
+ {
+  "SNo": 45,
+  "RollNo": "24CYSE46",
+  "Name": "KRISHNA GAANTH S"
+ },
+ {
+  "SNo": 46,
+  "RollNo": "24CYSE47",
+  "Name": "LOGESH PRAVIN R"
+ },
+ {
+  "SNo": 47,
+  "RollNo": "24CYSE48",
+  "Name": "MOHAMED AFSAL S"
+ },
+ {
+  "SNo": 48,
+  "RollNo": "24CYSE49",
+  "Name": "MOHAMED RAZIN T"
+ },
+ {
+  "SNo": 49,
+  "RollNo": "24CYSE50",
+  "Name": "RISHIVARMAN K"
+ },
+ {
+  "SNo": 50,
+  "RollNo": "24CYSE51",
+  "Name": "SABARIVASAN P"
+ },
+ {
+  "SNo": 51,
+  "RollNo": "24CYSE53",
+  "Name": "SARAVANA B"
+ },
+ {
+  "SNo": 52,
+  "RollNo": "24CYSE54",
+  "Name": "SURYAKUMAR M B"
+ },
+ {
+  "SNo": 53,
+  "RollNo": "24CYSE55",
+  "Name": "SYED RASOOL J"
+ },
+ {
+  "SNo": 54,
+  "RollNo": "24CYSE56",
+  "Name": "THIRUVALLUVAR M"
+ },
+ {
+  "SNo": 55,
+  "RollNo": "24CYSE57",
+  "Name": "VISHAL K"
+ },
+ {
+  "SNo": 56,
+  "RollNo": "24CYSE58",
+  "Name": "YOGESH J"
+ },
+ {
+  "SNo": 57,
+  "RollNo": "24CYSE59",
+  "Name": "YUGESH M"
+ },
+ {
+  "SNo": 58,
+  "RollNo": "25CYSEL01",
+  "Name": "VIGNESHDEVI S"
+ },
+ {
+  "SNo": 59,
+  "RollNo": "25CYSEL02",
+  "Name": "YOGESWAR S"
+ }
 ]

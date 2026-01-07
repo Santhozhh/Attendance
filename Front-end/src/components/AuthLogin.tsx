@@ -26,14 +26,14 @@ const AuthLogin = () => {
     e.preventDefault();
     
     if (isHistoryLogin) {
-      if (username === 'ADMIN' && password === 'ADMIN') {
+      if (username === 'AdminAttendance' && password === 'cysdas') {
         localStorage.setItem('isHistoryAuthenticated', 'true');
         navigate('/history');
       } else {
         setError('Invalid username or password');
       }
     } else {
-      if (username === 'ADMIN' && password === 'ADMIN') {
+      if (username === 'VCET' && password === 'cyshis') {
         localStorage.setItem('isAuthenticated', 'true');
         navigate('/dashboard');
       } else {
@@ -102,12 +102,7 @@ const AuthLogin = () => {
                     Back to Dashboard
                   </button>
                 )}
-                <label className="block text-indigo-300 text-sm font-medium mb-2">
-                  username : ADMIN
-                </label>
-                <label className="block text-indigo-300 text-sm font-medium mb-2">
-                  Password : ADMIN
-                </label>
+                
               </div>
             </form>
           </div>
