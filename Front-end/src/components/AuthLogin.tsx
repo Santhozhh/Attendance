@@ -26,14 +26,14 @@ const AuthLogin = () => {
     e.preventDefault();
     
     if (isHistoryLogin) {
-      if (username === 'AdminAttendance' && password === 'cysdas') {
+      if (username === 'VCET' && password === 'cyshis') {
         localStorage.setItem('isHistoryAuthenticated', 'true');
         navigate('/history');
       } else {
         setError('Invalid username or password');
       }
     } else {
-      if (username === 'VCET' && password === 'cyshis') {
+      if (username === 'AdminAttendance' && password === 'cysdas') {
         localStorage.setItem('isAuthenticated', 'true');
         navigate('/dashboard');
       } else {
