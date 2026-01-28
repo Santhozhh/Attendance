@@ -657,11 +657,7 @@ Have a Very Nice Day`;
         >
           
             
-            <a 
-              href="mailto:ksdsanthosh130@gmail.com" 
-              className="ml-2 inline-flex items-center align-middle"
-              title="Email me"
-            >
+            
               <div className="relative inline-block w-6 h-6">
                 <div className="absolute inset-0 bg-purple-500/30 rounded-md blur-md"></div>
                 <svg 
@@ -680,7 +676,7 @@ Have a Very Nice Day`;
                   <polyline points="22,6 12,13 2,6"></polyline>
                 </svg>
               </div>
-            </a>
+            
           
         </motion.div>
       </motion.div>
