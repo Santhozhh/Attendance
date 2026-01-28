@@ -11,7 +11,7 @@ const app = express();
 
 // CORS Configuration
 const allowedOrigins = [
-  'https://attendance-1-xcfw.onrender.com',
+  'https://attendance-management-system-z5qd.onrender.com',
   'http://localhost:5173',
   'http://localhost:3000',
   'https://attendance-v875.onrender.com'
